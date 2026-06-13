@@ -42,9 +42,9 @@ if it repeats, i'll automate it.
 ```
 🏋🏽‍♀️ I finish a set in the gym.
 ↓  
-⛃ Apple shortcuts → log it to a → raw CSV on iCloud  
+⛃ Apple shortcuts → log it to a raw CSV on iCloud  
 ↓  
-☁️ Apple Shortcuts → Automatic upload to Unity Catalog volume
+☁️ Apple Shortcuts → Automatic upload to a Unity Catalog volume
 ↓  
 📦 Unity Catalog Volume → raw schema (scheduled pipeline)  
 ↓  
