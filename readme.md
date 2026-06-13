@@ -31,7 +31,7 @@
 
 ```
 Also dabble in: 
-Robotics · Automation · 3D animations · Augmented reality.
+Robotics · Embedded Systems · 3D animations · Augmented reality.
 
 i once taught a bot to find flowers using only its "eyes". (not joking)
 
@@ -51,7 +51,7 @@ if something can be quantified, i'll measure it.
 ## 🗂 Featured projects
 
 
-## 🚀 the Quantified Self Project
+## 🚀 the Quantified Self project
 
 The goal is simple: log life so obsessively that Future Me can answer extremely important questions like “what did I eat for breakfast last Tuesday?” without guessing.
 
@@ -64,7 +64,7 @@ It’s part self‑experiment, part personal analytics, part “I wonder what ha
 ```
 What I currently log :
 
-🏋🏽‍♀️ Every workout set in the gym (7k+ sets and counting)
+🏋🏽‍♀️ Every workout set in the gym
 📍 My location every 2 minutes
 ♥️ Hourly health Metrics exported from the health app
 ⚡️ Energy / Stress / Mood at various points in the day
