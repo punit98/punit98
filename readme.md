@@ -20,7 +20,7 @@
 dabble in: 
 Machine Learning · Robotics · automation · 3D animations · Augmented reality.
 
-i once taught a virtual hummingbird to find flowers using only its "eyes". (not joking)
+i once taught a bot to find flowers using only its "eyes". (not joking)
 
 if something can be quantified, i'll measure it.  
 if it repeats, i'll automate it.  
