@@ -32,7 +32,7 @@ if it repeats, i'll automate it.
 - Databricks · Unity Catalog · Delta Live Tables  
 - Python · SQL · Bash
 - Power BI · Looker · Matplotlib
-- Azure AI studio · Deep learning with Tensorflow / Keras · Machine Learning · Anthropic Claude API 
+- Azure AI studio · Tensorflow / Keras · Machine Learning · Anthropic Claude API 
 - ESP32 · Arduino · RYS8830 GNSS · 3D printing  
 - GitHub Actions · Databricks Asset Bundles · Apple Shortcuts  
 ```
