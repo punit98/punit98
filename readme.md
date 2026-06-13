@@ -1,14 +1,13 @@
 <div align="center">
 
-```
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│   hi. i'm punit.                                            |
-|   data nerd. i make data go places and do things.           │
-│   sometimes i also solder hardware at 1 am.                 │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
-```
+### 🛰️ PUNIT SINGH  
+
+#### Data Engineer • Embedded Tinkerer • Professional Overthinker
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ2bGZ3a2Z2dW5yY2t6bGZ6b3R5bGJ6b2R2cG1zZ2Z6bGJ2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD4W4qGvU7xvZyQ/giphy.gif" width="400" />
+
+
+**I build things that log life, automate chaos, and occasionally explode (intentionally).**  
 [![GitHub](https://img.shields.io/badge/punit98-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/punit98) [![Email](https://img.shields.io/badge/email-3d3d3a?style=flat-square&logo=protonmail&logoColor=white)](mailto:punit98@protonmail.com) [![Dribbble](https://img.shields.io/badge/dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/Fab13) ![Location](https://img.shields.io/badge/UK-lightgrey?style=flat-square)
 
 </div>
@@ -68,7 +67,7 @@ if it repeats, i'll automate it.
 
 ### `quantified_self` — personal data platform
 
-A production-grade medallion-architecture pipeline on Databricks. Fitness and wellness CSVs are ingested via Apple Shortcuts into a Unity Catalog Volume, processed through Delta Live Tables (Bronze → Silver → Gold), and visualised in Power BI via the native Databricks connector.
+An enterprise-grade medallion-architecture pipeline on Databricks. CSVs are ingested via Apple Shortcuts into a Unity Catalog Volume, processed through Delta Live Tables (Bronze → Silver → Gold), and visualised in Power BI via the native Databricks connector.
 
 Infrastructure is managed as code with Databricks Asset Bundles and deployed via GitHub Actions. No manual steps from export to dashboard.
 
