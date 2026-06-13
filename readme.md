@@ -16,29 +16,30 @@
 
 
 ---
+
+
+## ⚙️ The stack
 ```
-dabble in: 
-Machine Learning · Robotics · automation · 3D animations · Augmented reality.
+- Databricks · Unity Catalog · Delta Live Tables  
+- Python · SQL · PySpark
+- Power BI · Looker · Matplotlib
+- Azure AI studio · Tensorflow / Keras · Machine Learning · Anthropic Claude API 
+- ESP32 · Arduino · RYS8830 GNSS · 3D printing  
+- GitHub Actions · Declarative Automation Bundles · Apple Shortcuts  
+```
+---
+
+```
+Also dabble in: 
+Robotics · Automation · 3D animations · Augmented reality.
 
 i once taught a bot to find flowers using only its "eyes". (not joking)
 
 if something can be quantified, i'll measure it.  
-if it repeats, i'll automate it.  
 ```
 ---
 
-## 🛠 the stack
-```
-- Databricks · Unity Catalog · Delta Live Tables  
-- Python · SQL · Bash
-- Power BI · Looker · Matplotlib
-- Azure AI studio · Tensorflow / Keras · Machine Learning · Anthropic Claude API 
-- ESP32 · Arduino · RYS8830 GNSS · 3D printing  
-- GitHub Actions · Databricks Asset Bundles · Apple Shortcuts  
-```
----
-
-## 🚀 what i'm building right now
+## what i'm building right now
 
 | | project | status |
 |---|---|---|
