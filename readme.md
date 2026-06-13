@@ -1,14 +1,14 @@
 
 <div>
 
-## Data Nerd • Embedded Tinkerer • Mixed Reality enthusiast • Human
+## Data Nerd • Human • Tinkerer • Mixed Reality enthusiast
 
 
 **Professionally, I am a data engineer.** 
 
 **Personally, I build things that log life, automate chaos, and occasionally short-circuit (un-intentionally).**  
 
-**I also teach machines how to think**
+**I also teach machines how to think.**
 </div>
 
 
