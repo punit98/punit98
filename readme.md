@@ -34,10 +34,12 @@ if it repeats, i'll automate it.
 | 📊 | **Quantified Self ETL** — raw life-logs → Databricks medallion pipeline → dashboards | 🟠 almost done |
 | 🤖 | **Jobhunt Bot** — AI-assisted job application tooling | 🟢 live |
 ---
-<div align="centre">
 
 ## 🚀 the ETL pipeline
 
+<div align="centre">
+
+```
 🏋🏽‍♀️ I finish a set in the gym.
 ↓  
 ⛃ Apple shortcuts → log it to a → raw CSV on iCloud  
@@ -55,9 +57,12 @@ if it repeats, i'll automate it.
 ⚙️ GitHub Actions → validate on PR · deploy on merge  
 ↓  
 📈 Power BI → native Databricks connector · auto-refresh
+```
+
+</div>
+
 
 ---
-</div>
 
 ## 🗂 featured projects
 
