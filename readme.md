@@ -1,29 +1,28 @@
 <div align="center">
 
+```
 ╭─────────────────────────────────────────────────────────────╮
 │                                                             │
-│   hi. i'm punit.                                            │
-│   i make data go places.                                    │
-│   sometimes i also solder things at 1am.                    │
+│   hi. i'm punit.                                            |
+|   data nerd. i make data go places and do things.           │
+│   sometimes i also solder hardware at 1 am.                 │
 │                                                             │
 ╰─────────────────────────────────────────────────────────────╯
-
-[![Portfolio](https://img.shields.io/badge/punitsingh.info-3d3d3a?style=flat-square&logoColor=white)](https://punitsingh.info)
-[![GitHub](https://img.shields.io/badge/punit98-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/punit98)
-[![Email](https://img.shields.io/badge/email-3d3d3a?style=flat-square&logo=protonmail&logoColor=white)](mailto:punit98@protonmail.com)
-[![Dribbble](https://img.shields.io/badge/dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/Fab13)
-![Location](https://img.shields.io/badge/West_Bromwich,_UK-lightgrey?style=flat-square)
+```
+[![GitHub](https://img.shields.io/badge/punit98-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/punit98) [![Email](https://img.shields.io/badge/email-3d3d3a?style=flat-square&logo=protonmail&logoColor=white)](mailto:punit98@protonmail.com) [![Dribbble](https://img.shields.io/badge/dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/Fab13) ![Location](https://img.shields.io/badge/UK-lightgrey?style=flat-square)
 
 </div>
 
 ---
 
-currently: **data engineering** by day, **GNSS firmware** by night.  
-also: robotics builder · automation architect · MSc Computer Science · person who once taught a virtual hummingbird to find flowers using only its eyes.
+currently: **data engineering** by day, **building location logging hardware** by night.  
 
-if something can be measured, i'll measure it.  
+I also dabble in: 
+Machine Learning · Robotics · automation · 3D animation · 
+I once taught a virtual hummingbird to find flowers using only its "eyes". (not joking)
+
+if something can be quantified, i'll measure it.  
 if it repeats, i'll automate it.  
-if it's YAML, i'll be humbled eventually.
 
 ---
 
@@ -31,20 +30,23 @@ if it's YAML, i'll be humbled eventually.
 
 | | project | status |
 |---|---|---|
-| 🛰️ | **GNSS Keychain Logger** — custom PCB + RYS8830 + ultra-low-power firmware | 🟡 in progress |
-| 📊 | **Quantified Self ETL** — raw life-logs → Databricks medallion pipeline → dashboards | 🟢 live |
+| 🛰️ | **Location Logging Keychain** — esp32 + RYS8830 + ultra-low-power firmware | 🟡 in progress |
+| 📊 | **Quantified Self ETL** — raw life-logs → Databricks medallion pipeline → dashboards | 🟠 almost done |
 | 🤖 | **Jobhunt Bot** — AI-assisted job application tooling | 🟢 live |
-| 🧰 | **Python Automation Tools** — docx generators, CLI utilities, workflow engines | 🟡 in progress |
-
 ---
+<div align="centre">
 
-## 📊 the ETL pipeline
+## 🚀 the ETL pipeline
 
-📱 Apple Shortcuts → raw CSV on iCloud  
+🏋🏽‍♀️ I finish a set in the gym.
 ↓  
-📦 Unity Catalog Volume → landing zone (automated PUT)  
+⛃ Apple shortcuts → log it to a → raw CSV on iCloud  
 ↓  
-🥉 Bronze (DLT streaming) → immutable · append-only · timestamped  
+☁️ Apple Shortcuts → Automatic upload to Unity Catalog volume
+↓  
+📦 Unity Catalog Volume → raw schema (scheduled pipeline)  
+↓  
+🥉 Bronze (DLT streaming) →  streaming · append-only · timestamped  
 ↓  
 🥈 Silver (DLT) → typed · deduplicated · trustworthy  
 ↓  
@@ -55,6 +57,7 @@ if it's YAML, i'll be humbled eventually.
 📈 Power BI → native Databricks connector · auto-refresh
 
 ---
+</div>
 
 ## 🗂 featured projects
 
