@@ -2,12 +2,12 @@
 
 ## 🛰️ PUNIT SINGH  
 
-### Data Engineer • Embedded Tinkerer • Professional Overthinker • 
+### Data Nerd • Embedded Tinkerer • Mixed Reality enthusiast • 
+
+**Professionally, I am a data engineer.** 
+**Personally, I build things that log life, automate chaos, and occasionally short-circuit (un-intentionally).**  
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDR5dmdwYXQ3cTM2YXRjMTJkaDJnZnQ3bThqa2c3dGNmZDkxb2N5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MuPe4OFkceuChGQk1L/giphy.gif" width="150" />
-
-
-**I build things that log life, automate chaos, and occasionally short-circuit (un-intentionally).**  
 
 [![GitHub](https://img.shields.io/badge/punit98-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/punit98) [![Email](https://img.shields.io/badge/email-3d3d3a?style=flat-square&logo=protonmail&logoColor=white)](mailto:punit98@protonmail.com) [![Dribbble](https://img.shields.io/badge/dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/Fab13) ![Location](https://img.shields.io/badge/UK-lightgrey?style=flat-square)
 
@@ -15,10 +15,8 @@
 
 ---
 
-currently: **data engineering** by day, **building location logging hardware** by night.  
-
 I also dabble in: 
-Machine Learning · Robotics · automation · 3D animation · 
+Machine Learning · Robotics · automation · 3D animations · Augmented reality
 I once taught a virtual hummingbird to find flowers using only its "eyes". (not joking)
 
 if something can be quantified, i'll measure it.  
@@ -35,27 +33,46 @@ if it repeats, i'll automate it.
 | 🤖 | **Jobhunt Bot** — AI-assisted job application tooling | 🟢 live |
 ---
 
-## 🚀 the ETL pipeline
+## 🚀 the Quantified Self Project
+
+The goal is simple: log life so obsessively that Future Me can answer extremely important questions like “what did I eat for breakfast last Tuesday?” without guessing.
+
+On a serious note, by tracking the tiny details, I can actually see what helped me grow, what slowed me down, and what habits secretly sabotaged my progress.
+
+It’s part self‑experiment, part personal analytics, part “I wonder what happens if I measure everything.”
 
 <div align="centre">
 
 ```
-🏋🏽‍♀️ I finish a set in the gym.
-↓  
-⛃ Apple shortcuts → log it to a raw CSV on iCloud  
-↓  
+What I currently log :
+
+🏋🏽‍♀️ Every workout set in the gym (7k+ sets and counting)
+📍 My location every 2 minutes
+♥️ Hourly health Metrics exported from the health app
+⚡️ Energy / Stress / Mood at various points in the day
+🍗 Everything that I've eaten
+📱 Apps that I've opened
+🗒️ Micro‑journaling — one‑sentence emotional snapshots throughout the day
+
+(automated, each record with a location, weather at said location and a timestamps)
+
+How I log and what happens to the logs, you ask? 
+
+
+⛃ Apple shortcuts and automations → log it to a raw CSV on iCloud  
+            ↓  
 ☁️ Apple Shortcuts → Automatic upload to a Unity Catalog volume
-↓  
+            ↓  
 📦 Unity Catalog Volume → raw schema (scheduled pipeline)  
-↓  
+            ↓  
 🥉 Bronze (DLT streaming) →  streaming · append-only · timestamped  
-↓  
+            ↓  
 🥈 Silver (DLT) → typed · deduplicated · trustworthy  
-↓  
-🥇 Gold (DLT) → weekly trends · workout splits · wellness scores  
-↓  
+            ↓  
+🥇 Gold (DLT) → weekly trends · category splits · daily and weekly scores  
+            ↓  
 ⚙️ GitHub Actions → validate on PR · deploy on merge  
-↓  
+            ↓  
 📈 Power BI → native Databricks connector · auto-refresh
 ```
 
@@ -66,9 +83,9 @@ if it repeats, i'll automate it.
 
 ## 🗂 featured projects
 
-### `quantified_self` — personal data platform
+### `quantified_self` — personal data platform 
 
-An enterprise-grade medallion-architecture pipeline on Databricks. CSVs are ingested via Apple Shortcuts into a Unity Catalog Volume, processed through Delta Live Tables (Bronze → Silver → Gold), and visualised in Power BI via the native Databricks connector.
+An enterprise-grade medallion-architecture pipeline on Databricks for my personal life logs. CSVs are ingested via Apple Shortcuts into a Unity Catalog Volume, processed through Delta Live Tables (Bronze → Silver → Gold), and visualised in Power BI via the native Databricks connector.
 
 Infrastructure is managed as code with Databricks Asset Bundles and deployed via GitHub Actions. No manual steps from export to dashboard.
 
@@ -76,15 +93,23 @@ Infrastructure is managed as code with Databricks Asset Bundles and deployed via
 
 ### `jobhunt-bot` — AI-powered job application assistant
 
-Playwright scrapes JavaScript-heavy and iframe-based job boards. The Anthropic Claude API grades each role A–D against a candidate profile, generates tailored CVs, and writes bespoke cover letters. Runs locally on macOS via a simple launcher.
+Playwright scrapes JavaScript-heavy and iframe-based job boards. The Anthropic Claude API grades each role A–D against my candidate profile (that I have in a csv because it is much better than a CV), generates tailored CVs, and writes bespoke cover letters. Runs locally on macOS via a simple launcher.
+(I tried using Ollama for a truly local LLM, but my laptop started crying and I took pity on it)
 
 ---
 
-### `gnss-keychain-logger` — keychain-sized GPS logger
+### `gnss-keychain-logger` — keychain-sized GPS logger (in progress)
 
-Custom PCB around the RYS8830 GNSS module. Ultra-low-power firmware where you're counting microamps. Logs GPS position to flash storage, designed to live on a keychain and run for weeks on a small battery.
+ESP032 module with the RYS8830 GNSS module in a 3d printed casing. Ultra-low-power firmware where you're counting microamps. Logs GPS position to flash storage every 30 seconds, designed to live on a keychain and run for weeks on a small battery.
 
 ---
+
+
+## 🗺️ Visual: My Projects at a Glance
+<p align="center">
+  <img src="https://github.com/punit98/punit98/blob/main/assets/network-map.svg" width="80%" />
+</p>
+
 
 ## 🛠 the stack
 
