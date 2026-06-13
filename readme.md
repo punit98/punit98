@@ -1,8 +1,6 @@
-<div align = "centre">
+<div>
 
-## 🛰️ PUNIT SINGH  
-
-### Data Nerd • Embedded Tinkerer • Mixed Reality enthusiast • Human
+## Data Nerd • Embedded Tinkerer • Mixed Reality enthusiast • Human
 
 </div>
 
