@@ -2,12 +2,14 @@
 
 ## Data Nerd • Embedded Tinkerer • Mixed Reality enthusiast • Human
 
-</div>
 
 **Professionally, I am a data engineer.** 
+
 **Personally, I build things that log life, automate chaos, and occasionally short-circuit (un-intentionally).**  
 <!-- 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDR5dmdwYXQ3cTM2YXRjMTJkaDJnZnQ3bThqa2c3dGNmZDkxb2N5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MuPe4OFkceuChGQk1L/giphy.gif" width="150" /> -->
+
+</div>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square)](https://linkedin.com/in/punit98) [![GitHub](https://img.shields.io/badge/punit98-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/punit98) [![Email](https://img.shields.io/badge/email-3d3d3a?style=flat-square&logo=protonmail&logoColor=white)](mailto:punit98@protonmail.com) [![Dribbble](https://img.shields.io/badge/dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/Fab13)
@@ -16,7 +18,7 @@
 ---
 
 I also dabble in: 
-Machine Learning · Robotics · automation · 3D animations · Augmented reality
+Machine Learning · Robotics · automation · 3D animations · Augmented reality.
 I once taught a virtual hummingbird to find flowers using only its "eyes". (not joking)
 
 if something can be quantified, i'll measure it.  
