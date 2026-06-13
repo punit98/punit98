@@ -1,10 +1,10 @@
 <div align="center">
 
-### 🛰️ PUNIT SINGH  
+## 🛰️ PUNIT SINGH  
 
-#### Data Engineer • Embedded Tinkerer • Professional Overthinker
+### Data Engineer • Embedded Tinkerer • Professional Overthinker • 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ2bGZ3a2Z2dW5yY2t6bGZ6b3R5bGJ6b2R2cG1zZ2Z6bGJ2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD4W4qGvU7xvZyQ/giphy.gif" width="400" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDR5dmdwYXQ3cTM2YXRjMTJkaDJnZnQ3bThqa2c3dGNmZDkxb2N5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MuPe4OFkceuChGQk1L/giphy.gif" width="150" />
 
 
 **I build things that log life, automate chaos, and occasionally short-circuit (un-intentionally).**  
