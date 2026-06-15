@@ -8,7 +8,7 @@
 
 **Personally, I build things that log life, automate chaos, and occasionally short-circuit (un-intentionally).**  
 
-**I also teach machines how to think.**
+**I sometimes teach machines how to think.**
 </div>
 
 
