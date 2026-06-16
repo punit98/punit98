@@ -23,8 +23,8 @@
 - Databricks · Unity Catalog · Delta Live Tables  
 - Python · SQL · PySpark
 - Power BI · Looker · Matplotlib
-- Azure AI studio · Tensorflow / Keras · Machine Learning · Anthropic Claude API 
-- ESP32 · Arduino · RYS8830 GNSS · 3D printing  
+- Azure AI studio · Tensorflow / Keras · Machine Learning · Claude API 
+- ESP32 · Arduino · RYS8830 GNSS 
 - GitHub Actions · Declarative Automation Bundles · Apple Shortcuts  
 ```
 ---
@@ -33,7 +33,7 @@
 Also dabble in: 
 Robotics · Embedded Systems · 3D animations · Augmented reality.
 
-i once taught a bot to find flowers using only its "eyes". (not joking)
+i once taught a virtual bot to find flowers using only its "virtual eyes". (i wish i was joking)
 
 if something can be quantified, i'll measure it.  
 ```
